@@ -1,0 +1,23 @@
+[
+  {
+    "name": "home",
+    "path": "/home",
+    "component": "C:\\\\Users\\\\User\\\\Desktop\\\\quwi\\\\test-quwi\\\\pages\\\\home.vue",
+    "chunkName": "pages/home",
+    "_name": "_062f57d4"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\User\\\\Desktop\\\\quwi\\\\test-quwi\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_83f1d57c"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\User\\\\Desktop\\\\quwi\\\\test-quwi\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_17411baa"
+  }
+]
